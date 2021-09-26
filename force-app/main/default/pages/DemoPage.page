@@ -1,5 +1,5 @@
 <apex:page standardController="Contact" extensions="DemoController">
-  <!-- Page Header Updated-->
+  <!-- Page Header Updated T00002-->
   <apex:sectionHeader title="Contact Edit" subtitle="New SFDX Demo Member" />
   <apex:image value="http://bit.ly/17iLknp" styleClass="logo" />
 
