@@ -1,6 +1,6 @@
 public with sharing class DemoController {
     /**
-     * An empty constructor for the testing updated v1
+     * An empty constructor for the testing updated
      */
     public DemoController() {}
 
